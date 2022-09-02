@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using AplicacionEstudiantil.App.Dominio.Entidades;
+using AplicacionEstudiantil.App.Dominio.Entidades;//..
 
 namespace AplicacionEstudiantil.App.Persistencia{
     public class AppContext : DbContext{
