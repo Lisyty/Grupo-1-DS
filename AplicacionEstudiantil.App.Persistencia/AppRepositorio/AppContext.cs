@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using AplicacionEstudiantil.App.Dominio.Entidades;//..
+using AplicacionEstudiantil.App.Dominio.Entidades;
 
 namespace AplicacionEstudiantil.App.Persistencia{
     public class AppContext : DbContext{
@@ -9,7 +9,7 @@ namespace AplicacionEstudiantil.App.Persistencia{
         public DbSet<Estudiante> Estudiantes { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder){
             if (!optionsBuilder.IsConfigured){
-                optionsBuilder.UseSqlServer("Data Source = (Localdb)\\MSSQLLocalDB; Initial Catalog = AplicacionEducativa_Equipo_1");
+                optionsBuilder.UseSqlServer("Data Source = (Localdb)\\MSSQLLocalDB; Initial Catalog = AplicacionEducativa_Equipo_1");//conexion a base de datos local
             }
         }
     }
