@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Escritorio\\Visual Studio Code\\AplicacionEstudiantil.App\\AplicacionEstudiantil.App.Vistas\\AplicacionEstudiantil.App.Vistas.csproj",
+      "projectUniqueName": "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Escritorio\\AplicacionEstudiantil.App\\AplicacionEstudiantil.App.Vistas\\AplicacionEstudiantil.App.Vistas.csproj",
       "projectName": "AplicacionEstudiantil.App.Vistas",
-      "projectPath": "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Escritorio\\Visual Studio Code\\AplicacionEstudiantil.App\\AplicacionEstudiantil.App.Vistas\\AplicacionEstudiantil.App.Vistas.csproj",
+      "projectPath": "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Escritorio\\AplicacionEstudiantil.App\\AplicacionEstudiantil.App.Vistas\\AplicacionEstudiantil.App.Vistas.csproj",
       "packagesPath": "C:\\Users\\pensa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Escritorio\\Visual Studio Code\\AplicacionEstudiantil.App\\AplicacionEstudiantil.App.Vistas\\obj\\",
+      "outputPath": "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Escritorio\\AplicacionEstudiantil.App\\AplicacionEstudiantil.App.Vistas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pensa\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.422\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.423\\RuntimeIdentifierGraph.json"
       }
     }
   }
