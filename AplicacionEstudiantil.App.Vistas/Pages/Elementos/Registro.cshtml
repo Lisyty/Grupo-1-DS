@@ -1,0 +1,99 @@
+﻿@page
+@model Ejemplo.Pages.RegistroModel
+@{
+    ViewData["Title"] = "Registro";
+}
+<div class="tab-content">
+
+    <form>
+
+        
+<!-- e validacion del rol con el codigo unico-->
+
+        <h3>Validacion de Rol</h3>
+        <div class="input-group">
+            <input type="search" class="form-control rounded" placeholder="Ingrese el codigo de usuario Suministrado"
+                aria-label="Codigo suministrado" aria-describedby="search-addon" />
+            <button type="button" class="btn btn-outline-primary">Validar</button>
+        </div>
+
+<!-- etiqueda donde se mostrara el resultado de la validacion del rol con el codigo unico-->
+        <div>
+            <br>
+            <p class="text-center">El rol asignado con este codigo de usuario es </p>
+            </h4>
+            <label class="form-label" for="rol"> Estudiante/profesor</label>
+        </div>
+
+
+        <br><br><h3>Formulario de Registro</h3>
+
+        <!-- input  nombre y apellidos-->
+        <div class="row mb-4">
+            <div class="col">
+                <div class="form-outline">
+                    <label class="form-label" for="registrarNombres">Nombres</label>
+                    <input type="text" id="registrarNombres" class="form-control" />
+                </div>
+            </div>
+            <div class="col">
+                <div class="form-outline">
+                    <label class="form-label" for="registrarApellidos">Apellidos</label>
+                    <input type="text" id="registrarApellidos" class="form-control" />
+                </div>
+            </div>
+        </div>
+
+        <!-- input correo -->
+
+        <div class="row mb-4">
+            <div class="col">
+                <div class="form-outline">
+                    <label class="form-label" for="registrarCorreo">Correo</label>
+                    <input type="email" id="registrarCorreo" class="form-control" />
+                </div>
+            </div>
+            <div class="col">
+                <div class="form-outline">
+                    <label class="form-label" for="fechanacimiento">Fecha de nacimiento</label>
+                    <input type="date" id="fechanacimiento" class="form-control" />
+                </div>
+            </div>
+        </div>
+
+        <!-- input direccion y telefono-->
+        <div class="row mb-4">
+            <div class="col">
+                <div class="form-outline">
+                    <label class="form-label" for="registrarApellidos">Direccion</label>
+                    <input type="text" id="registrarApellidos" class="form-control" />
+                </div>
+            </div>
+            <div class="col">
+                <div class="form-outline">
+                    <label class="form-label" for="registrarApellidos">Telefono</label>
+                    <input type="text" id="registrarApellidos" class="form-control" />
+                </div>
+            </div>
+        </div>
+
+        <!-- input contraseña-->
+        <div class="row mb-4">
+            <div class="col">
+                <div class="form-outline">
+                    <label class="form-label" for="registerPassword">Contraseña</label>
+                    <input type="password" id="registerPassword" class="form-control" />
+                </div>
+            </div>
+            <div class="col">
+                <div class="form-outline">
+                    <label class="form-label" for="registerRepeatPassword">Repita la contraseña</label>
+                    <input type="password" id="registerRepeatPassword" class="form-control" />
+                </div>
+            </div>
+        </div>
+
+        <!-- boton de registro -->
+        <a href="AdminEstudiante" class="btn btn-primary btn-block mb-3"> Registrar</a>
+    </form>
+</div>

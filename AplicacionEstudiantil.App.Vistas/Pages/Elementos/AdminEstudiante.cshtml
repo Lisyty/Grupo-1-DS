@@ -1,0 +1,150 @@
+﻿@page
+@model Ejemplo.Pages.AdminEstudianteModel
+@{
+    ViewData["Title"] = "Admin_estudiante";
+}
+
+div class="container-sm">
+    <h3>Informacion General</h3>
+    <label class="form-label" for="rol">Datos estudiante</label>
+    <div><br></div>
+</div>
+
+<!-- opciones del usuario -->
+
+<div class="accordion" id="accordionExample">
+    <!--inicio pestaña #1 -->
+    <div class="accordion-item">
+        <h2 class="accordion-header" id="headingOne">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
+                aria-expanded="true" aria-controls="collapseOne">
+                Lista de Materias
+            </button>
+        </h2>
+        <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <strong>A continuacion encontrara la lista de materias por ciclo disponibles para realizar la
+                    matricula</strong>
+
+                <!-- filto seleccion de ciclo -->
+
+                <div class="container-sm">
+                    <br>
+                    <label class="form-label" for="rol">Selecciones el Ciclo en el cual desea inscribir los
+                        cursos</label>
+                    <br>
+
+                    <!-- lista de opciones para seleccionar el ciclo para filtrar los cursos disponibles -->
+                    <div class="btn-group" role="group" aria-label="Basic outlined example">
+                        <button type="button" class="btn btn-outline-primary">Ciclo 1</button>
+                        <button type="button" class="btn btn-outline-primary">Ciclo 2</button>
+                        <button type="button" class="btn btn-outline-primary">Ciclo 3</button>
+                        <button type="button" class="btn btn-outline-primary">Ciclo 4</button>
+                    </div>
+                </div>
+
+                <!-- tabla -->
+                <table class="table align-middle mb-0 bg-white">
+                    <thead class="bg-light">
+                        <tr>
+                            <th>Profesor</th>
+                            <th>Materia</th>
+                            <th>Acciones</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>
+                                <div class="ms-3">
+                                    <p class="fw-bold mb-1">Nombre Profesor</p>
+                                    <p class="text-muted mb-0">info adicional</p>
+                                </div>
+                            </td>
+                            <td>
+                                <p class="fw-normal mb-1">Nombre Materia</p>
+                                <p class="text-muted mb-0">info adicional</p>
+                            </td>
+                            <td>
+                                <button type="button" class="btn btn-success btn-sm btn-rounded"> Seleccionar </button>
+                                <button type="button" class="btn btn-danger btn-sm btn-rounded"> Eliminar </button>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <!--fin de la tabla -->
+
+            </div>
+        </div>
+    </div>
+    <!--inicio pestaña #2 -->
+    <div class="accordion-item">
+        <h2 class="accordion-header" id="headingTwo">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                Historial de Cursos Matriculados
+            </button>
+        </h2>
+        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <strong>Acontinuacion encontrara el historial de cursos</strong>
+
+                <!-- consulta sobre cursos matriculados actualmente -->
+                <!-- tabla -->
+                <table class="table align-middle mb-0 bg-white">
+                    <thead class="bg-light">
+                        <tr>
+                            <th>Materia</th>
+                            <th>profesor</th>
+                            <th>Calificacion</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>
+                                <div class="ms-3">
+                                    <p class="fw-bold mb-1">Nombre Materi</p>
+                                </div>
+                            </td>
+                            <td>
+                                <p class="fw-normal mb-1">Nombre Profesor</p>
+                            </td>
+                            <td>
+                                <p class="fw-normal mb-1">Calificacion</p>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <!--fin de la tabla -->
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--inicio pestaña #3 -->
+    <h2 class="accordion-header" id="heading3">
+        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3"
+            aria-expanded="true" aria-controls="collapse3">
+            Ingreso a cursos
+        </button>
+    </h2>
+    <div id="collapse3" class="accordion-collapse collapse show" aria-labelledby="heading3"
+        data-bs-parent="#accordionExample">
+        <div class="accordion-body">
+            <strong>Seleccione el curso al que desea ingresar </strong>
+
+            <!--- en este espacio encuentra el acceso a la pagina materia segun el curso que el usuario escoja -->
+            <!-- Inicio card de curso -->
+            <div class="card" style="width: 18rem;">
+                
+                <div class="card-body">
+                    <h5 class="card-title">Nombre Materia</h5>
+                    <p class="card-text">Ciclo # / pofesor / Horario.</p>
+                    <a href="Materia" class="btn btn-primary"> Ingresar</a><!-- ingresa a la pagina materia cargando los datos de la materia-->
+                </div>
+            </div>
+            <!-- Fin card de curso -->               
+        </div>
+    </div>
+</div>

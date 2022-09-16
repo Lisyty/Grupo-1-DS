@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LdQNXiNYrEIDNb6kBx3Pxeqk3YjAs2qAd7/a+eenRBOTLnUOTtBLY2xh0iMT1Lh0TiVnf5B4lLb3e6M1cN0qpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Escritorio\\Visual Studio Code\\AplicacionEstudiantil.App\\AplicacionEstudiantil.App.Dominio\\AplicacionEstudiantil.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pensa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pensa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

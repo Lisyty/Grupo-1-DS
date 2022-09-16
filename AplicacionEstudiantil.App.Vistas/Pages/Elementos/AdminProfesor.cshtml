@@ -1,0 +1,135 @@
+﻿@page
+@model Ejemplo.Pages.AdminProfesorModel
+@{
+    ViewData["Title"] = "Admin_Profesor";
+}
+
+<div class="container-sm">
+    <h3>Informacion General</h3>
+    <label class="form-label" for="rol">Datos profesor</label>
+    <div><br></div>
+</div>
+
+<!-- opciones del usuario -->
+
+<div class="accordion" id="accordionExample">
+    <!--inicio pestaña #1 -->
+    <div class="accordion-item">
+        <h2 class="accordion-header" id="headingOne">
+            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
+                aria-expanded="true" aria-controls="collapseOne">
+                Lista de Materias
+            </button>
+        </h2>
+        <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <strong>A continuacion encontrara la lista de materias que horientara por ciclo </strong>
+
+                <!-- filto seleccion de ciclo -->
+
+                <div class="container-sm">
+                    <br>
+                    <label class="form-label" for="rol">Selecciones el Ciclo en el cual desea consultar los
+                        cursos</label>
+                    <br>
+
+                    <!-- lista de opciones para seleccionar el ciclo para filtrar los cursos disponibles -->
+                    <div class="btn-group" role="group" aria-label="Basic outlined example">
+                        <button type="button" class="btn btn-outline-primary">Ciclo 1</button>
+                        <button type="button" class="btn btn-outline-success">Ciclo 2</button>
+                        <button type="button" class="btn btn-outline-warning">Ciclo 3</button>
+                        <button type="button" class="btn btn-outline-info">Ciclo 4</button>
+                    </div>
+                </div>
+
+                <!-- tabla -->
+                <table class="table align-middle mb-0 bg-white">
+                    <thead class="bg-light">
+                        <tr>
+                            <th>Profesor</th>
+                            <th>Materia</th>
+                            <th>Acciones</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>
+                                <div class="ms-3">
+                                    <p class="fw-bold mb-1">Nombre Profesor</p>
+                                    <p class="text-muted mb-0">info adicional</p>
+                                </div>
+                            </td>
+                            <td>
+                                <p class="fw-normal mb-1">Nombre Materia</p>
+                                <p class="text-muted mb-0">info adicional</p>
+                            </td>
+                            <td>
+                                <button type="button" class="btn btn-primary btn-sm btn-rounded"> ir a Curso </button>
+                                <button type="button" class="btn btn-info btn-sm btn-rounded"> Lista de Clase </button>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <!--fin de la tabla -->
+
+            </div>
+        </div>
+    </div>
+    <!--inicio pestaña #2 -->
+    <div class="accordion-item">
+        <h2 class="accordion-header" id="headingTwo">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                Lista de Clase
+            </button>
+        </h2>
+        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+            data-bs-parent="#accordionExample">
+            <div class="accordion-body">
+                <strong>Acontinuacion encontrara la lista de clase, seleccionada para el curso</strong> <label for="">
+                    nombre curso </label> <strong>, del ciclo </strong> <label for=""> Nombre Cliclo .</label>
+
+                <!-- consulta sobre los estudiantes matriculados segun el boton lista de clase de la seccion anterior -->
+                <!-- tabla -->
+                <table class="table align-middle mb-0 bg-white">
+                    <thead class="bg-light">
+                        <tr>
+                            <th>Nombre</th>
+                            <th>Apellido</th>
+                            <th>Codigo Id</th>
+                            <th>correo</th>
+                            <th>Calificacion</th>
+                            <th>Acciones de Nota</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>
+                                <div class="ms-3">
+                                    <p class="fw-bold mb-1"> juan ejempo</p>
+                                </div>
+                            </td>
+                            <td>
+                                <p class="fw-normal mb-1">Perez ejemplo</p>
+                            </td>
+                            <td>
+                                <p class="fw-normal mb-1">Id 00100 </p>
+                            </td>
+                            <td>
+                                <p class="fw-normal mb-1">Correo@Correo.com</p>
+                            </td>
+                            <td>
+                                <p class="fw-normal mb-1">Nota 5.0</p>
+                            </td>
+                            <td>
+                                <button type="button" class="btn btn-warning btn-sm btn-rounded"> Agregar / Modificar</button>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <!--fin de la tabla -->
+            </div>
+        </div>
+    </div>
+</div>

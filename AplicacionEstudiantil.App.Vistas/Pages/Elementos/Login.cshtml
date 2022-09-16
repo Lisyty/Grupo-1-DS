@@ -1,0 +1,45 @@
+﻿@page
+@model Ejemplo.Pages.LoginModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<section class="vh-100">
+  <div class="container-fluid h-custom">
+    <div class="row d-flex justify-content-center align-items-center h-100">
+      <div class="col-md-9 col-lg-6 col-xl-5">
+        <img
+          src="https://thumbs.dreamstime.com/b/redes-de-computaci%C3%B3n-en-nube-con-estilo-m%C3%ADnimo-abstracto-azul-y-blanco-estructura-dise%C3%B1o-concepto-telecomunicaciones-conexiones-190102239.jpg"
+          class="img-fluid" alt="Sample image">
+      </div>
+      <div class="col-md-8 col-lg-6 col-xl-4 offset-xl-1">
+        <form>
+          <div class="d-flex flex-row align-items-center justify-content-center justify-content-lg-start">
+            <!-- <p class="lead fw-normal mb-0 me-3">Inicio de Sesion</p> -->
+          </div>
+
+          <!--  input de  correo -->
+          <div class="form-outline mb-4">
+            <input type="email" id="form3Example3" class="form-control form-control-lg"
+              placeholder="Ingrese el correo electronico" />
+            <label class="form-label" for="form3Example3">Correo Electronico</label>
+          </div>
+
+          <!-- input de contraseña -->
+          <div class="form-outline mb-3">
+            <input type="password" id="form3Example4" class="form-control form-control-lg"
+              placeholder="ingrese una contraseña" />
+            <label class="form-label" for="form3Example4">Contraseña</label>
+          </div>
+
+          <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+            <!---<button class="btn btn-primary me-md-2" type="button">Ingresar</button>-->
+            <a href="Materia" class="btn btn-primary"> Inicio</a>
+            <a class="btn btn-primary" href="Registro" role="button">Registrarse</a>
+          </div>
+
+        </form>
+      </div>
+    </div>
+  </div>
+</section>
