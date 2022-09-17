@@ -10,21 +10,21 @@ namespace AplicacionEstudiantil.App.Consola
         private static IRepositorioEstudiante _repoEstudiante = new RepositorioEstudiante(new Persistencia.AppContext()); 
         static void Main(string[] args)
         {
-            //AgregarEstudiante();
-            BuscarEstudiante(2);
+            AgregarEstudiante();
+            //BuscarEstudiante(2);
             Console.WriteLine("Hello World!");
         }
 
         private static void AgregarEstudiante(){
             var estudiante = new Estudiante
             {
-                Nombres="yohan Alfredo",
-                Apellidos="Ramirez",
-                DocumentoIdentidad="1030527185",
-                Edad="18",
-                Correo="pensamiento312@gmail.com",
-                Contraseña="jnji3i",
-                Grado="once",   
+                Nombres="juan ",
+                Apellidos="gonzles",
+                DocumentoIdentidad="1111185",
+                Edad="13",
+                Correo="dipamato@gmail.com",
+                Contraseña="jdeededi3i",
+                Grado="tercero",   
             };
         _repoEstudiante.AddEstudiante(estudiante);   
         }   
