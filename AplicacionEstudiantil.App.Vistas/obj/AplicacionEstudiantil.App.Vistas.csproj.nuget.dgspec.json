@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Escritorio\\AplicacionEstudiantil.App\\AplicacionEstudiantil.App.Vistas\\AplicacionEstudiantil.App.Vistas.csproj": {}
+    "C:\\Users\\dlote\\Documents\\Mision TIC2022\\Ciclo 3\\Grupo-1-DS\\AplicacionEstudiantil.App.Vistas\\AplicacionEstudiantil.App.Vistas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Escritorio\\AplicacionEstudiantil.App\\AplicacionEstudiantil.App.Vistas\\AplicacionEstudiantil.App.Vistas.csproj": {
+    "C:\\Users\\dlote\\Documents\\Mision TIC2022\\Ciclo 3\\Grupo-1-DS\\AplicacionEstudiantil.App.Vistas\\AplicacionEstudiantil.App.Vistas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Escritorio\\AplicacionEstudiantil.App\\AplicacionEstudiantil.App.Vistas\\AplicacionEstudiantil.App.Vistas.csproj",
+        "projectUniqueName": "C:\\Users\\dlote\\Documents\\Mision TIC2022\\Ciclo 3\\Grupo-1-DS\\AplicacionEstudiantil.App.Vistas\\AplicacionEstudiantil.App.Vistas.csproj",
         "projectName": "AplicacionEstudiantil.App.Vistas",
-        "projectPath": "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Escritorio\\AplicacionEstudiantil.App\\AplicacionEstudiantil.App.Vistas\\AplicacionEstudiantil.App.Vistas.csproj",
-        "packagesPath": "C:\\Users\\pensa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Escritorio\\AplicacionEstudiantil.App\\AplicacionEstudiantil.App.Vistas\\obj\\",
+        "projectPath": "C:\\Users\\dlote\\Documents\\Mision TIC2022\\Ciclo 3\\Grupo-1-DS\\AplicacionEstudiantil.App.Vistas\\AplicacionEstudiantil.App.Vistas.csproj",
+        "packagesPath": "C:\\Users\\dlote\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dlote\\Documents\\Mision TIC2022\\Ciclo 3\\Grupo-1-DS\\AplicacionEstudiantil.App.Vistas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pensa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\dlote\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -24,6 +24,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -35,13 +36,15 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -53,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.423\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
