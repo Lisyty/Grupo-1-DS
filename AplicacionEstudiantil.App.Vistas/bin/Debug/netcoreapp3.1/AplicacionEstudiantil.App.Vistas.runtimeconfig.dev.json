@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\dlote\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\dlote\\.nuget\\packages"
+      "C:\\Users\\Secretaria\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Secretaria\\.nuget\\packages"
     ]
   }
 }

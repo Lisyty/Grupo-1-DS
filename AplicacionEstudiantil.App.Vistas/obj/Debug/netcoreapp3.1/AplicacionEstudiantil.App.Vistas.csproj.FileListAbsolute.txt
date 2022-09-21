@@ -124,3 +124,45 @@ C:\Users\dlote\Documents\Mision TIC2022\Ciclo 3\Grupo-1-DS\AplicacionEstudiantil
 C:\Users\dlote\Documents\Mision TIC2022\Ciclo 3\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\AplicacionEstudiantil.App.Vistas.pdb
 C:\Users\dlote\Documents\Mision TIC2022\Ciclo 3\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\AplicacionEstudiantil.App.Vistas.genruntimeconfig.cache
 C:\Users\dlote\Documents\Mision TIC2022\Ciclo 3\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\AplicacionEstudiantil.App.Vistas.csproj.CopyComplete
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\bin\Debug\netcoreapp3.1\AplicacionEstudiantil.App.Vistas.exe
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\bin\Debug\netcoreapp3.1\AplicacionEstudiantil.App.Vistas.deps.json
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\bin\Debug\netcoreapp3.1\AplicacionEstudiantil.App.Vistas.runtimeconfig.json
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\bin\Debug\netcoreapp3.1\AplicacionEstudiantil.App.Vistas.runtimeconfig.dev.json
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\bin\Debug\netcoreapp3.1\AplicacionEstudiantil.App.Vistas.dll
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\bin\Debug\netcoreapp3.1\AplicacionEstudiantil.App.Vistas.pdb
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\bin\Debug\netcoreapp3.1\AplicacionEstudiantil.App.Vistas.Views.dll
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\bin\Debug\netcoreapp3.1\AplicacionEstudiantil.App.Vistas.Views.pdb
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\AplicacionEstudiantil.App.Vistas.csprojAssemblyReference.cache
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\AplicacionEstudiantil.App.Vistas.AssemblyInfoInputs.cache
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\AplicacionEstudiantil.App.Vistas.AssemblyInfo.cs
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\AplicacionEstudiantil.App.Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\AplicacionEstudiantil.App.Vistas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\AplicacionEstudiantil.App.Vistas.RazorAssemblyInfo.cache
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\AplicacionEstudiantil.App.Vistas.RazorAssemblyInfo.cs
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\AplicacionEstudiantil.App.Vistas.TagHelpers.input.cache
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\AplicacionEstudiantil.App.Vistas.TagHelpers.output.cache
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\AplicacionEstudiantil.App.Vistas.RazorCoreGenerate.cache
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\Razor\Pages\Elementos\AdminEstudiante.cshtml.g.cs
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\Razor\Pages\Elementos\AdminProfesor.cshtml.g.cs
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\Razor\Pages\Elementos\Login.cshtml.g.cs
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\Razor\Pages\Elementos\Materia.cshtml.g.cs
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\Razor\Pages\Elementos\Registro.cshtml.g.cs
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\AplicacionEstudiantil.App.Vistas.RazorTargetAssemblyInfo.cache
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\AplicacionEstudiantil.App.Vistas.RazorTargetAssemblyInfo.cs
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\AplicacionEstudiantil.App.Vistas.Views.pdb
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\staticwebassets\AplicacionEstudiantil.App.Vistas.StaticWebAssets.Manifest.cache
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\staticwebassets\AplicacionEstudiantil.App.Vistas.StaticWebAssets.xml
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\AplicacionEstudiantil.App.Vistas.dll
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\AplicacionEstudiantil.App.Vistas.pdb
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\AplicacionEstudiantil.App.Vistas.genruntimeconfig.cache
+C:\Users\Secretaria\Documents\PROYECTO\Grupo-1-DS\AplicacionEstudiantil.App.Vistas\obj\Debug\netcoreapp3.1\AplicacionEstudiantil.App.Vistas.csproj.CopyComplete
