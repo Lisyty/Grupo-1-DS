@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "w8ShTBv9L3dnFyBWXU2hZqtUX90hgl7omJGTwPiS//7+JTMVGr4ifBudgJ5WCUxVupbXL3Pec75/wa5S1/11wA==",
+  "dgSpecHash": "BgvLpnFKlWbQDT8a6mjhHAFkCd9XH1D7iBQ2jFeeEamL1owd+efgQH2ZnWNsgrJNIOo7mCTU3jpfd1IB+Q/kiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Escritorio\\Visual Studio Code\\AplicacionEstudiantil.App\\AplicacionEstudiantil.App.Dominio\\AplicacionEstudiantil.App.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\dlote\\Documents\\GitHub\\Grupo-1-DS\\AplicacionEstudiantil.App.Dominio\\AplicacionEstudiantil.App.Dominio.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\pensa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\pensa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\dlote\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dlote\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

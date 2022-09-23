@@ -7,15 +7,15 @@ namespace AplicacionEstudiantil.App.Consola
 {
     class Program
     {
-        private static IRepositorioEstudiante _repoEstudiante = new RepositorioEstudiante(new Persistencia.AppContext()); 
+       // private static IRepositorioEstudiante _repoEstudiante = new RepositorioEstudiante(new Persistencia.AppContext()); 
         static void Main(string[] args)
         {
-            //AgregarEstudiante();
-            BuscarEstudiante(2);
+          // AgregarEstudiante();
+            //BuscarEstudiante(2);
             Console.WriteLine("Hello World!");
         }
 
-        private static void AgregarEstudiante(){
+     /*   private static void AgregarEstudiante(){
             var estudiante = new Estudiante
             {
                 Nombres="yohan Alfredo",
@@ -33,6 +33,6 @@ namespace AplicacionEstudiantil.App.Consola
         {
             var estudiante = _repoEstudiante.GetEstudiante(idEstudiante);
             Console.WriteLine(estudiante.Nombres + " " + estudiante.Apellidos  + " " + estudiante.Grado );
-        }
+        } */
     }
 }

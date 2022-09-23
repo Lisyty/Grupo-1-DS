@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using AplicacionEstudiantil.App.Persistencia;
 
 namespace AplicacionEstudiantil.App.Vistas
 {
@@ -24,6 +25,8 @@ namespace AplicacionEstudiantil.App.Vistas
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+            //services.AddSingleton<IRepositorioEstudiante, RepositorioEstudiante>();
+            services.AddControllersWithViews();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -44,6 +47,8 @@ namespace AplicacionEstudiantil.App.Vistas
             app.UseStaticFiles();
 
             app.UseRouting();
+
+            app.UseAuthentication();
 
             app.UseAuthorization();
 
