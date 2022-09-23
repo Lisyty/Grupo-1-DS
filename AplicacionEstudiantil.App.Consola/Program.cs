@@ -11,7 +11,7 @@ namespace AplicacionEstudiantil.App.Consola
         static void Main(string[] args)
         {
             //AgregarEstudiante();
-            BuscarEstudiante(2);
+            //BuscarEstudiante(2);
             Console.WriteLine("Hello World!");
         }
 

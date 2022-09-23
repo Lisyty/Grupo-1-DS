@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Escritorio\\Visual Studio Code\\AplicacionEstudiantil.App\\AplicacionEstudiantil.App.Dominio\\AplicacionEstudiantil.App.Dominio.csproj": {}
+    "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Escritorio\\Visual Studio Code\\AplicacionEstudiantil.App\\Grupo-1-DS\\AplicacionEstudiantil.App.Dominio\\AplicacionEstudiantil.App.Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Escritorio\\Visual Studio Code\\AplicacionEstudiantil.App\\AplicacionEstudiantil.App.Dominio\\AplicacionEstudiantil.App.Dominio.csproj": {
+    "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Escritorio\\Visual Studio Code\\AplicacionEstudiantil.App\\Grupo-1-DS\\AplicacionEstudiantil.App.Dominio\\AplicacionEstudiantil.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Escritorio\\Visual Studio Code\\AplicacionEstudiantil.App\\AplicacionEstudiantil.App.Dominio\\AplicacionEstudiantil.App.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Escritorio\\Visual Studio Code\\AplicacionEstudiantil.App\\Grupo-1-DS\\AplicacionEstudiantil.App.Dominio\\AplicacionEstudiantil.App.Dominio.csproj",
         "projectName": "AplicacionEstudiantil.App.Dominio",
-        "projectPath": "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Escritorio\\Visual Studio Code\\AplicacionEstudiantil.App\\AplicacionEstudiantil.App.Dominio\\AplicacionEstudiantil.App.Dominio.csproj",
+        "projectPath": "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Escritorio\\Visual Studio Code\\AplicacionEstudiantil.App\\Grupo-1-DS\\AplicacionEstudiantil.App.Dominio\\AplicacionEstudiantil.App.Dominio.csproj",
         "packagesPath": "C:\\Users\\pensa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Escritorio\\Visual Studio Code\\AplicacionEstudiantil.App\\AplicacionEstudiantil.App.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Escritorio\\Visual Studio Code\\AplicacionEstudiantil.App\\Grupo-1-DS\\AplicacionEstudiantil.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pensa\\AppData\\Roaming\\NuGet\\NuGet.Config"

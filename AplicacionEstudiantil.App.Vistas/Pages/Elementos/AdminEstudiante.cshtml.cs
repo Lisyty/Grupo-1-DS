@@ -4,27 +4,26 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using AplicacionEstudiantil.App.Persistencia.AppRepositorio;
+using AplicacionEstudiantil.App.Persistencia;
 using AplicacionEstudiantil.App.Dominio.Entidades;
 
-namespace Ejemplo.Pages
+namespace AplicacionEstudiantil.App.Vistas.Pages
 {
     public class AdminEstudianteModel : PageModel
     {
-        private readonly IRepositorioEstudiante RepositorioEstudiante;
-       
-        public List <Estudiante> Estudiante {get; set;}
+        //Aqui conecta a los servicios
+        //esta es la inicializacion
+        private readonly IRepositorioEstudiante _repoEstudiante;
 
-        public AdminEstudianteModel(IRepositorioEstudiante RepositorioEstudiante){
+        public IEnumerable<Estudiante> listaEstudiantes{get;set;}
 
-         this.RepositorioEstudiante= RepositorioEstudiante; 
-         }
-
-        public void OnGet(int IdEstudiante);   
+        public AdminEstudianteModel(IRepositorioEstudiante repoEstudiante){
+            _repoEstudiante=repoEstudiante;
+        }
+        public void OnGet()
         {
-            Estudiante=new List<Estudiante>();
-            Estudiante=RepositorioEstudiante.GetAllEstudiante();
-            RepositorioEstudiante.DeleteEstudiante(IdEstudiante);    
-        } 
+            listaEstudiantes= new List<Estudiante>();
+            listaEstudiantes=_repoEstudiante.GetAllEstudiantes();
+        }
     }
 }

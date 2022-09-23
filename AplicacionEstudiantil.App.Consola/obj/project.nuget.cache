@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "if4KZe4jzXr41p5grbVdwWC6ekqZn0jQLkaKoeC0HBgy+Cq7EemoIOAFiOSeARmOUeyWooVx2HV/G4mN5OukVQ==",
+  "dgSpecHash": "7GkfoEuBqPFDwl7VYjQZ/Snxc44sOitWTT8Idp5nA9VQiW4fXt6TpXG1R/qfPdXJWCMsR6ECSux2oXy6+UPClg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Escritorio\\Visual Studio Code\\AplicacionEstudiantil.App\\AplicacionEstudiantil.App.Consola\\AplicacionEstudiantil.App.Consola.csproj",
+  "projectFilePath": "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Escritorio\\Visual Studio Code\\AplicacionEstudiantil.App\\Grupo-1-DS\\AplicacionEstudiantil.App.Consola\\AplicacionEstudiantil.App.Consola.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pensa\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\pensa\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
