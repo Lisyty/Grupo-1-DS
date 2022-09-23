@@ -1,5 +1,5 @@
 ﻿@page
-@model Ejemplo.Pages.AdminEstudianteModel
+@model AplicacionEstudiantil.App.Vistas.Pages.AdminEstudianteModel
 @{
     ViewData["Title"] = "Admin_estudiante";
 }
@@ -27,7 +27,7 @@
                 <strong>A continuacion encontrara la lista de materias por ciclo disponibles para realizar la
                     matricula</strong>
 
-                <!-- filtro seleccion de ciclo -->
+                <!-- filto seleccion de ciclo -->
 
                 <div class="container-sm">
                     <br>
@@ -67,7 +67,7 @@
                             </td>
                             <td>
                                 <button type="button" class="btn btn-success btn-sm btn-rounded"> Seleccionar </button>
-                                <button asp-route-IdEstudiante="Model.Estudiante.Id" type="button" class="btn btn-danger btn-sm btn-rounded"> Eliminar </button>
+                                <button type="button" class="btn btn-danger btn-sm btn-rounded"> Eliminar </button>
                             </td>
                         </tr>
                     </tbody>

@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Secretaria\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Secretaria\\.nuget\\packages"
+      "C:\\Users\\pensa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\pensa\\.nuget\\packages"
     ]
   }
 }

@@ -3,14 +3,11 @@ using System.Linq;
 using System.Collections.Generic;
 using AplicacionEstudiantil.App.Dominio.Entidades;
 
+
 namespace AplicacionEstudiantil.App.Persistencia{
     public class RepositorioEstudiante:IRepositorioEstudiante{
 
-        private readonly AppContext _appContext;
-
-        public RepositorioEstudiante (AppContext appContext){
-            _appContext = appContext;
-        }
+        private readonly AppContext _appContext=new AppContext();
 
         public Estudiante AddEstudiante(Estudiante estudiante){
             var estudianteAdicionado = _appContext.Estudiantes.Add(estudiante);

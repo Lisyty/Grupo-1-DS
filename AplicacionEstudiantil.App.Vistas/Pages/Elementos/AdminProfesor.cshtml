@@ -1,5 +1,5 @@
 ﻿@page
-@model Ejemplo.Pages.AdminProfesorModel
+@model AplicacionEstudiantil.App.Vistas.Pages.AdminProfesorModel
 @{
     ViewData["Title"] = "Admin_Profesor";
 }
@@ -95,13 +95,23 @@
                 <table class="table align-middle mb-0 bg-white">
                     <thead class="bg-light">
                         <tr>
-                            <th>Nombre</th>
-                            <th>Apellido</th>
-                            <th>Codigo Id</th>
+                            <th>Nombres</th>
+                            <th>Apellidos</th>
+                            <th>Grado</th>
                             <th>correo</th>
                             <th>Calificacion</th>
                             <th>Acciones de Nota</th>
                         </tr>
+                        @foreach (var x in Model.listaEstudiantes)
+                        { 
+                            <tr>
+                                <th>@x.Nombres</th>
+                                <th>@x.Apellidos</th>
+                                <th>@x.Grado</th>
+                                <th>@x.Correo</th>
+
+                            </tr>
+                        }
                     </thead>
                     <tbody>
                         <tr>
