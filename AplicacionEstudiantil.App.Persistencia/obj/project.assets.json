@@ -7268,11 +7268,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Escritorio\\Visual Studio Code\\AplicacionEstudiantil.App\\Grupo-1-DS\\AplicacionEstudiantil.App.Persistencia\\AplicacionEstudiantil.App.Persistencia.csproj",
+      "projectUniqueName": "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Documentos\\Grupo-1-DS\\AplicacionEstudiantil.App.Persistencia\\AplicacionEstudiantil.App.Persistencia.csproj",
       "projectName": "AplicacionEstudiantil.App.Persistencia",
-      "projectPath": "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Escritorio\\Visual Studio Code\\AplicacionEstudiantil.App\\Grupo-1-DS\\AplicacionEstudiantil.App.Persistencia\\AplicacionEstudiantil.App.Persistencia.csproj",
+      "projectPath": "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Documentos\\Grupo-1-DS\\AplicacionEstudiantil.App.Persistencia\\AplicacionEstudiantil.App.Persistencia.csproj",
       "packagesPath": "C:\\Users\\pensa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Escritorio\\Visual Studio Code\\AplicacionEstudiantil.App\\Grupo-1-DS\\AplicacionEstudiantil.App.Persistencia\\obj\\",
+      "outputPath": "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Documentos\\Grupo-1-DS\\AplicacionEstudiantil.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pensa\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -7286,8 +7286,8 @@
       "frameworks": {
         "netstandard2.1": {
           "projectReferences": {
-            "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Escritorio\\Visual Studio Code\\AplicacionEstudiantil.App\\Grupo-1-DS\\AplicacionEstudiantil.App.Dominio\\AplicacionEstudiantil.App.Dominio.csproj": {
-              "projectPath": "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Escritorio\\Visual Studio Code\\AplicacionEstudiantil.App\\Grupo-1-DS\\AplicacionEstudiantil.App.Dominio\\AplicacionEstudiantil.App.Dominio.csproj"
+            "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Documentos\\Grupo-1-DS\\AplicacionEstudiantil.App.Dominio\\AplicacionEstudiantil.App.Dominio.csproj": {
+              "projectPath": "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Documentos\\Grupo-1-DS\\AplicacionEstudiantil.App.Dominio\\AplicacionEstudiantil.App.Dominio.csproj"
             }
           }
         }

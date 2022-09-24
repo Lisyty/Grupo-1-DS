@@ -16,3 +16,12 @@ C:\Users\pensa\OneDrive - Secretaria de Educacion del Distrito\Escritorio\Visual
 C:\Users\pensa\OneDrive - Secretaria de Educacion del Distrito\Escritorio\Visual Studio Code\AplicacionEstudiantil.App\Grupo-1-DS\AplicacionEstudiantil.App.Dominio\obj\Debug\netstandard2.0\AplicacionEstudiantil.App.Dominio.csproj.CoreCompileInputs.cache
 C:\Users\pensa\OneDrive - Secretaria de Educacion del Distrito\Escritorio\Visual Studio Code\AplicacionEstudiantil.App\Grupo-1-DS\AplicacionEstudiantil.App.Dominio\obj\Debug\netstandard2.0\AplicacionEstudiantil.App.Dominio.dll
 C:\Users\pensa\OneDrive - Secretaria de Educacion del Distrito\Escritorio\Visual Studio Code\AplicacionEstudiantil.App\Grupo-1-DS\AplicacionEstudiantil.App.Dominio\obj\Debug\netstandard2.0\AplicacionEstudiantil.App.Dominio.pdb
+C:\Users\pensa\OneDrive - Secretaria de Educacion del Distrito\Documentos\Grupo-1-DS\AplicacionEstudiantil.App.Dominio\bin\Debug\netstandard2.0\AplicacionEstudiantil.App.Dominio.deps.json
+C:\Users\pensa\OneDrive - Secretaria de Educacion del Distrito\Documentos\Grupo-1-DS\AplicacionEstudiantil.App.Dominio\bin\Debug\netstandard2.0\AplicacionEstudiantil.App.Dominio.dll
+C:\Users\pensa\OneDrive - Secretaria de Educacion del Distrito\Documentos\Grupo-1-DS\AplicacionEstudiantil.App.Dominio\bin\Debug\netstandard2.0\AplicacionEstudiantil.App.Dominio.pdb
+C:\Users\pensa\OneDrive - Secretaria de Educacion del Distrito\Documentos\Grupo-1-DS\AplicacionEstudiantil.App.Dominio\obj\Debug\netstandard2.0\AplicacionEstudiantil.App.Dominio.csprojAssemblyReference.cache
+C:\Users\pensa\OneDrive - Secretaria de Educacion del Distrito\Documentos\Grupo-1-DS\AplicacionEstudiantil.App.Dominio\obj\Debug\netstandard2.0\AplicacionEstudiantil.App.Dominio.AssemblyInfoInputs.cache
+C:\Users\pensa\OneDrive - Secretaria de Educacion del Distrito\Documentos\Grupo-1-DS\AplicacionEstudiantil.App.Dominio\obj\Debug\netstandard2.0\AplicacionEstudiantil.App.Dominio.AssemblyInfo.cs
+C:\Users\pensa\OneDrive - Secretaria de Educacion del Distrito\Documentos\Grupo-1-DS\AplicacionEstudiantil.App.Dominio\obj\Debug\netstandard2.0\AplicacionEstudiantil.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\pensa\OneDrive - Secretaria de Educacion del Distrito\Documentos\Grupo-1-DS\AplicacionEstudiantil.App.Dominio\obj\Debug\netstandard2.0\AplicacionEstudiantil.App.Dominio.dll
+C:\Users\pensa\OneDrive - Secretaria de Educacion del Distrito\Documentos\Grupo-1-DS\AplicacionEstudiantil.App.Dominio\obj\Debug\netstandard2.0\AplicacionEstudiantil.App.Dominio.pdb

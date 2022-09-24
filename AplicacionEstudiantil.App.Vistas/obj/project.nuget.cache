@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hi8bYiETM+zCgGG/DQpWZfSmVjNpEnQitTo63G3M32Zr+2qVgAaCTL3qBGXBj8vV5y2Q532f+9F+ev/vOxafUQ==",
+  "dgSpecHash": "l3i+BZkUj67Zv34YX95M83j3eOmltkQ5wdnLNWsNGA0Fk6dYGygEhyhgO/WpmRfWmjLHrrOFiNJ9HNaJVsxUpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Escritorio\\Visual Studio Code\\AplicacionEstudiantil.App\\Grupo-1-DS\\AplicacionEstudiantil.App.Vistas\\AplicacionEstudiantil.App.Vistas.csproj",
+  "projectFilePath": "C:\\Users\\pensa\\OneDrive - Secretaria de Educacion del Distrito\\Documentos\\Grupo-1-DS\\AplicacionEstudiantil.App.Vistas\\AplicacionEstudiantil.App.Vistas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pensa\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\pensa\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
