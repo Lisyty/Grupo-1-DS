@@ -9,7 +9,7 @@
 <div class="row">
     <div class="col-md-4">
         <form asp-route-returnUrl="@Model.ReturnUrl" method="post">
-            <h4>Crear Nueva Cuenta.</h4>
+            <p>Crear Nueva Cuenta.</p>
             <hr />
             <div asp-validation-summary="All" class="text-danger"></div>
             <div class="form-group">
@@ -32,16 +32,16 @@
     </div>
     <div class="col-md-6 col-md-offset-2">
         <section>
-            <h4>Use another service to register.</h4>
+            <p>Aplicacion Educativa</p>
             <hr />
             @{
                 if ((Model.ExternalLogins?.Count ?? 0) == 0)
                 {
                     <div>
-                        <p>
-                            There are no external authentication services configured. See <a href="https://go.microsoft.com/fwlink/?LinkID=532715">this article</a>
-                            for details on setting up this ASP.NET application to support logging in via external services.
-                        </p>
+                       <div>
+                        <img src="https://thumbs.dreamstime.com/b/redes-de-computaci%C3%B3n-en-nube-con-estilo-m%C3%ADnimo-abstracto-azul-y-blanco-estructura-dise%C3%B1o-concepto-telecomunicaciones-conexiones-190102239.jpg"
+                        class="img-fluid" alt="Sample image">
+                    </div>
                     </div>
                 }
                 else

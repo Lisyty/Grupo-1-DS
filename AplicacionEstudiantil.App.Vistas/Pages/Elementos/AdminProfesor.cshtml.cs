@@ -14,16 +14,16 @@ namespace AplicacionEstudiantil.App.Vistas.Pages
         private readonly IRepositorioProfesor _repoProfesor;
         private readonly IRepositorioEstudiante _repoEstudiante;
 
-        /*public AdminProfesorModel(IRepositorioProfesor repoProfesor){
-            _repoProfesor=repoProfesor;
+       /* public AdminProfesorModel(IRepositorioProfesor repoProfesor){
+           this. _repoProfesor=repoProfesor;
         }*/
 
-        public IEnumerable<Estudiante> listaEstudiantes{get;set;}
+       public IEnumerable<Estudiante> listaEstudiantes{get;set;}
 
         public AdminProfesorModel(IRepositorioEstudiante repoEstudiante){
             _repoEstudiante=repoEstudiante;
-        }
-        public void OnGet()
+        } 
+       public void OnGet()
         {
             listaEstudiantes= new List<Estudiante>();
             listaEstudiantes=_repoEstudiante.GetAllEstudiantes();

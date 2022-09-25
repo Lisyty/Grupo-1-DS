@@ -25,7 +25,8 @@ namespace AplicacionEstudiantil.App.Vistas
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
-            //services.AddSingleton<IRepositorioEstudiante, RepositorioEstudiante>();
+            services.AddSingleton<IRepositorioEstudiante, RepositorioEstudiante>();
+            services.AddSingleton<IRepositorioProfesor, RepositorioProfesor>();
             services.AddControllersWithViews();
         }
 
