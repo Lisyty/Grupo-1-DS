@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace Ejemplo.Pages
+namespace AplicacionEstudiantil.App.Vistas.Pages
 {
     public class MateriaModel : PageModel
     {
